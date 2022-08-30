@@ -16,7 +16,7 @@
 
 <h3 align="left">My Contributions in Github:</h3>
 
-![snake gif](https://github.com/roshanxshrestha/roshanxshrestha/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/roshanxshrestha/roshanxshrestha/blob/output/github-contribution-grid-snake.svg)
 
 
 <h3 align="left">My Stats:</h3>
