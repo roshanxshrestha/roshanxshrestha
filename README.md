@@ -1,5 +1,5 @@
 - 🌱 hey! it's roshan shrestha, 👋 
-- currently into app development in flutter, 📱
+- an aspiring data analyst, 📱
 - hit me up to collaborate, 📩
 
 ![Flutter App Developer](https://github.com/roshanxshrestha/roshanxshrestha/blob/main/roshanbanner.jpg)
@@ -17,8 +17,3 @@
 <h3 align="left">My Contributions in Github:</h3>
 
 ![snake gif](https://github.com/roshanxshrestha/roshanxshrestha/blob/output/github-contribution-grid-snake.svg)
-
-
-<h3 align="left">My Stats:</h3>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roshanxshrestha&theme=dark&show_icons=true)
